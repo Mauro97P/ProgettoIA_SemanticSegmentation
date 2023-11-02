@@ -1,4 +1,26 @@
 car-segmentation_LOCALE/images/*
 
 !car-segmentation_LOCALE/images/003.png
+!car-segmentation_LOCALE/images/3d_metal_machine_160_2000x.png
+!car-segmentation_LOCALE/images/8b21a8c96a9d38143f7b29c0f8e4fe3d.png
+!car-segmentation_LOCALE/images/63-633585_infiniti-png-car-side-profile-png-transparent-png.png
+!car-segmentation_LOCALE/images/75-752748_red-jaguar-f-type-car-side-view-png.png
+!car-segmentation_LOCALE/images/202-2028012_car-png-hd-side-view-transparent-png.png
+!car-segmentation_LOCALE/images/865-8651925_fiat-tipo-company-car-side-view.png
+!car-segmentation_LOCALE/images/1965-Shelby-Cobra-Roadster-Side-Profile.png
+!car-segmentation_LOCALE/images/2008-Morgan-Life-Car-Side-Speed-1024x768.png
+!car-segmentation_LOCALE/images/2009-Ford-Kuga-Show-Car-Side-1280x960.png
 
+
+car-segmentation_LOCALE/masks/*
+
+!car-segmentation_LOCALE/masks/003.png
+!car-segmentation_LOCALE/masks/3d_metal_machine_160_2000x.png
+!car-segmentation_LOCALE/masks/8b21a8c96a9d38143f7b29c0f8e4fe3d.png
+!car-segmentation_LOCALE/masks/63-633585_infiniti-png-car-side-profile-png-transparent-png.png
+!car-segmentation_LOCALE/masks/75-752748_red-jaguar-f-type-car-side-view-png.png
+!car-segmentation_LOCALE/masks/202-2028012_car-png-hd-side-view-transparent-png.png
+!car-segmentation_LOCALE/masks/865-8651925_fiat-tipo-company-car-side-view.png
+!car-segmentation_LOCALE/masks/1965-Shelby-Cobra-Roadster-Side-Profile.png
+!car-segmentation_LOCALE/masks/2008-Morgan-Life-Car-Side-Speed-1024x768.png
+!car-segmentation_LOCALE/masks/2009-Ford-Kuga-Show-Car-Side-1280x960.png
