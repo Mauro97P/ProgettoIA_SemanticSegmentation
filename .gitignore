@@ -1,2 +1,4 @@
-car-segmentation_LOCALE/images
+car-segmentation_LOCALE/images/*
+
+!car-segmentation_LOCALE/images/003.png
 
