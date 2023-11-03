@@ -18,7 +18,7 @@ Data Augmentation -> Albumentations (libreria Python)
 
 | Modello        | Loss     |
 | ----------- | ----------- | 
-| U_Net      | IoU       | 128x128  |
-| MobileNetV2      | IoU     | 128x128  |
+| U_Net      | IoU       | '128x128'  |
+| MobileNetV2      | IoU     | '128x128'  |
 
 
