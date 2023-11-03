@@ -9,4 +9,8 @@
 
 
 # ProgettoIA_SemanticSegmentation
+La **segmentic segmentation** è un processo applicato alle immagini per la classificazione di ogni pixel in una specifica classe, cioè per ogni singolo pixel bisogna capire a che oggetto appartiene. 
+Per entrambi i modelli (grandi capacità e mobile) è stato deciso di utilizzare un’architettura U-Net (MobileNetV2 per la versione mobile).
+
+
 
