@@ -16,9 +16,9 @@ Per entrambi i modelli (grandi capacità e mobile) è stato deciso di utilizzare
 Data Augmentation -> Albumentations (libreria Python)
 
 
-| Modello        | Loss     |      |
-| ----------- | ----------- | ----------- | 
-| U_Net      | IoU       | 128x128  |
-| MobileNetV2      | IoU     | 128x128  |
+| Modello        | Loss     |
+| ----------- | ----------- |
+| U_Net      | IoU       |  128x128  |
+| MobileNetV2      | IoU     |  128x128  |
 
 
